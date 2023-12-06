@@ -1,6 +1,7 @@
 
 ### Installation
 
+### USE OR INSPECT IN TO MOBILE VERSION DESIGNED AS PER MOBILE
 1. **Clone the repository:**
    git clone https://github.com/hamsarajpitani/fancode.git
 
